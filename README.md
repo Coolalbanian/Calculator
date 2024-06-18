@@ -1,0 +1,1 @@
+In this simple calculator project the contents of calculator.h are copied into both the calculator.cpp file and main.cpp file. After which the forward decleration will be copied into the main.cpp file.
